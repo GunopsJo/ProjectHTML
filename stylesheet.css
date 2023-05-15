@@ -1,0 +1,79 @@
+body {
+    padding-top: 50px;
+    background-color: #EEF9FF;
+}
+
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    overflow: auto;
+}
+
+.bg-1 {
+    height: 95vh;
+    background: url('https://tse2-mm.cn.bing.net/th/id/OIP.G2xIPRSNp17utzcgAIitAAHaE6?w=277&h=184&c=7&o=5&dpr=1.76&pid=1.7') no-repeat center center fixed;
+    color: #fff;
+    background-size: cover;
+}
+
+.bg-2 {
+    height: 50vh;
+    background: url('https://tse2-mm.cn.bing.net/th/id/OIP.2BG4pSZhGSN57PImj99ArQHaDt?w=269&h=174&c=7&o=5&dpr=1.76&pid=1.7') no-repeat top center fixed;
+    color: #fff;
+    background-size: cover;
+}
+
+.bg-3 {
+    background-position-y: 10% !important;
+    height: 75vh;
+    background: url('https://tse2-mm.cn.bing.net/th/id/OIP.ZJXsSOakxoNEIzJ0ou1PyQHaE8?w=274&h=183&c=7&o=5&dpr=1.76&pid=1.7') no-repeat bottom center fixed;
+    color: #fff;
+    background-size: cover;
+}
+
+.divider {
+    height: 50px;
+}
+
+.transparent-backing {
+    border-radius: 1em;
+    background-color: rgba(41, 43, 44, 0.5);
+    padding: 1em;
+}
+
+#footer {
+    height: 60px;
+    background-color: #292B2C;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#footer a {
+    color: #efefef;
+}
+
+#intro-text {
+    padding: 0 1.5em;
+    /*text-align: justify;*/
+}
+
+#intro-img {
+    padding: 0 1.5em;
+    width: 100%;
+    height: 100%;
+}
+
+#Footer {
+    font-size: 60px;
+}
+
+.info {
+    font-size: 30px;
+}
+
+.NewPic {
+    padding: 0 1.5em;
+    width: 125%;
+    height: 100%;
+}
